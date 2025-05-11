@@ -8,4 +8,13 @@
 
 All third-party resources used are open-source and appropriately credited above.
 
+Credentials for Admin and User 
+Admin ( Only Admin can access Budget page )
+Email: baludeveloper06@gmail.com
+Password: stark@1234
+User
+Email: user@gmail.com
+Password: start@1234
+
+
 
