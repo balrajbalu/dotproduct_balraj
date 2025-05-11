@@ -1,4 +1,4 @@
-﻿# Dot_Product_Assessment_balraj
+﻿# DotProduct Assessment Balraj
 
 ## Credits & Attributions
 
