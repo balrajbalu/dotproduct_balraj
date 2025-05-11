@@ -1,3 +1,9 @@
+/**
+ * UI components adapted from Material UI Free Templates.
+ * Reference: https://mui.com/store/#free-templates
+ * Minor design and logic changes applied.
+ */
+
 import * as React from 'react';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';

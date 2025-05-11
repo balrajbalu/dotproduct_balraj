@@ -1,3 +1,9 @@
+/**
+ * D3 chart logic referenced from D3 Gallery examples.
+ * Source: https://observablehq.com/@d3/gallery
+ * Custom modifications included for project-specific interactivity and data.
+ */
+
 import { useRef, useEffect } from 'react';
 import * as d3 from 'd3';
 import { useTheme } from '@mui/material/styles';
